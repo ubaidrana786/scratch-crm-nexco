@@ -1,0 +1,15 @@
+.fulfilStatus{
+    padding: 2px 15px;
+   border-radius: 10px;
+   background-color: #fcd59e;
+}
+.successStatus{
+    padding: 2px 15px;
+    border-radius: 10px;
+    background-color: rgb(167, 250, 159);
+ }
+ .failedStatus{
+    padding: 2px 15px;
+    border-radius: 10px;
+    background-color: rgb(250, 159, 159);
+ }
